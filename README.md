@@ -41,7 +41,9 @@
 
 #### 1. Standardization (Z-score Normalization)
 
-(image.png)
+![alt text](image-1.png)
 
     Z-Score = (Current_value - Mean) / Standard Deviation
-    
+
+    Standard Deviation > 1 - Squeenze
+    Standard Deviation ~ 1 - Expand
